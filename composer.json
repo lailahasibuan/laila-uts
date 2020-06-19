@@ -1,0 +1,14 @@
+{
+    "name": "laila/uts",
+    "description": "program latihan web lanjutan uinsu sistem informasi",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "laila turubiah",
+            "email": "lailaturubiah@gmai.com"
+        }
+    ]
+}
